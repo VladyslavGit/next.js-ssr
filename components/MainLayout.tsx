@@ -38,7 +38,6 @@ export function MainLayout({ children, title = "Next App" }) {
         nav a {
           color: #fff;
           text-decoration: none;
-          font-size: 22px;
         }
 
         main {
